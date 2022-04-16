@@ -58,6 +58,14 @@ Well, this is exactly the question this guide answers.
 
 <br>
 
+#### BigBen exercise Web AR ✋
+
+- The link below is extremely easy if your already know a bit of blender (interesting for easy tshirts)
+
+##### [WebAR image tracking creation in 5 minutes without special skills (brand new way 2020)](https://youtu.be/2dERIze1bVo)
+
+<br>
+
 ##### [Create an Augmented Reality App in Android | App Development Tutorial | Android Studio](https://youtu.be/GiLra7jntsk)
 
 ##### [Augmented Reality for Everyone - Full Course](https://youtu.be/WzfDo2Wpxks)
@@ -81,8 +89,16 @@ Well, this is exactly the question this guide answers.
 
 <br>
 
+#### Ecommerce
+
+##### [Make your own Virtual Try On - Shoes 👟 | Lens Studio Augmented Reality (En Captions)](https://youtu.be/0dRzwvIyjoU)
+
+<br>
+
 #### Hardware
 
 ##### [Recommended Computers To Use For XR Development !](https://youtu.be/RxicAU066OE)
 
 <br>
+
+#### [AR / VR / Metaverse 2022 Trends | AR Smartglasses, Avatars and the massification of VR](https://youtu.be/A8O-bEucAHk)
