@@ -58,6 +58,19 @@
 <br>
 <br>
 
+#### Marker vs. Markerless Augmented Reality
+
+**Two of the most prevalent paths for experiencing AR are marker-based and markerless.** <br> <br> Early-stage AR technologies were marker-based. Markerless AR is now the preferred image recognition method for AR applications.
+
+**Marker-based AR** apps use markers (target images) to indicate things in a given space. These markers determine where the AR application places digital 3D content within the user’s visual field or through a camera feed.
+
+**Markerless AR** places virtual 3D objects in the physical environment depending on the environment’s real features rather than identifying markers. This differentiation eliminates the need for object tracking systems. Markerless AR experiences are possible because of advancements in cameras, sensors, processors, and algorithms capable of accurately detecting and mapping the real-world.
+
+**source:** [The Ultimate Guide to Markerless Augmented Reality](https://www.marxentlabs.com/what-is-markerless-augmented-reality-dead-reckoning/)
+
+<br>
+<br>
+
 ### Marker-Based AR ✋
 
 [Augmented Reality for Everyone - Full Course
@@ -83,3 +96,22 @@
 
 <br>
 <br>
+
+### Marker-less AR ✋
+
+[Augmented Reality for Everyone - Full Course
+](https://youtu.be/WzfDo2Wpxks?t=572)
+
+<br>
+
+> **Marker-less AR is not bounded to a particular marker, but rather allows users to position objects anywhere they want within their real-world view.** <br><br> After placing an object, even if the device camera is removed from the line of sight, the application still remembers the position of the object using a method called Simultaneous Localization and Mapping (SLAM), and so when the device is brought back into line of sight the object is once again visible.
+
+**source:** [Educational Applications of Augmented Reality (AR) and Virtual Reality (VR) to Enforce Teaching the "National Academy of Engineering Grand Challenges for Engineering in the 21st Century"](https://www.researchgate.net/publication/358376492_Educational_Applications_of_Augmented_Reality_AR_and_Virtual_Reality_VR_to_Enforce_Teaching_the_National_Academy_of_Engineering_Grand_Challenges_for_Engineering_in_the_21st_Century)
+
+<br>
+
+[<img src="img/marker-less-ar.gif"/>]()
+
+<br>
+
+**Markerless AR systems that use RGB-D SLAM and sensor fusion approaches** are on the opposite end of the spectrum. <br><br> **Microsoft HoloLens** is the most notable example. These systems integrate information from standard, red, green, and blue (RGB) cameras with state-of-the-art infrared time-of-flight cameras to construct a 3D map of the user’s surroundings while they use the application. This feature is a critical component of the SLAM tracking paradigm, as it enables apps running on these devices to place virtual content within the space concretely.
