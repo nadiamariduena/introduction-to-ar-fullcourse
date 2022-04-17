@@ -4,6 +4,8 @@
 
 ###### [Crea experiencias WebAR con Image Tracking fácilmente - Mind AR Open Source](https://youtu.be/Vdg3tZB53hw)
 
+- in the tutorial above you will learn how to make a marker
+
 <br>
 
 [<img src="img/MIND-ar.gif"/>](https://youtu.be/sRfZ0NWFOD8)

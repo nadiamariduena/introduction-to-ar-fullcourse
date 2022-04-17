@@ -60,7 +60,7 @@ Well, this is exactly the question this guide answers.
 
 #### BigBen exercise Web AR ✋
 
-- The link below is extremely easy if your already know a bit of blender (interesting for easy tshirts)
+- The link below is extremely easy if your already know a bit of blender (interesting for easy tshirts), you will also learn how to create a marker then print a qr code to use it so that the model can appear on it
 
 ##### [WebAR image tracking creation in 5 minutes without special skills (brand new way 2020)](https://youtu.be/2dERIze1bVo)
 
