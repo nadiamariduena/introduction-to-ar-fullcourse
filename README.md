@@ -75,6 +75,9 @@
 <br>
 <br>
 
+<br>
+<br>
+
 ### Marker-Based AR ✋
 
 [Augmented Reality for Everyone - Full Course
@@ -97,6 +100,9 @@
 #### As you can see, the 3d object stays in the place where the marker is.
 
 [<img src="img/image-tracking.gif"/>]()
+
+<br>
+<br>
 
 <br>
 <br>
@@ -128,12 +134,19 @@
 
 - You significantly increase the average range of motion while experiencing AR.
 
+<br>
+
 - You can initialize the application anywhere with a handheld device or a see-through headset like glasses or goggles.
+
+<br>
 
 - You can share the experience with others.
 
+<br>
+
 - You experience a wider field of view for AR content.
 
+<br>
 <br>
 
 #### Disadvantages of Markerless AR
@@ -162,9 +175,31 @@ Benefits & Challenges
 **source:** [The Ultimate Guide to Markerless Augmented Reality](https://www.marxentlabs.com/what-is-markerless-augmented-reality-dead-reckoning/)
 
 <br>
+<br>
+<br>
+<br>
+
+**[Houzz](https://www.houzz.com)** customers are able to place **"true-to-scale"** digital representations of furniture and other home décor products in their rooms. Users can place multiple objects at a time, and the wares are displayed with ambient lighting taken into account.
+
+<br>
+
+The app saves each previewed product to a shopping list for later purchase within the app, which supports Apple Pay. For those who are not ready to throw their money at Houzz just yet, the app also doubles as a Pinterest-like idea board, allowing users to capture their prospective designs for later reference.
+
+[<img src="img/markerless-ar-furniture.gif"/>](https://mobile-ar.reality.news/news/apple-ar-houzz-arkit-app-beats-ikea-app-store-0180132/)
+
+##### a magazine about Augmented reality
+
+> ✋ **Read More:** [Houzz ARKit App Beats IKEA to the App Store](https://mobile-ar.reality.news/news/apple-ar-houzz-arkit-app-beats-ikea-app-store-0180132/)
+
+<br>
+<br>
 
 ---
 
+<br>
+<br>
+
+<br>
 <br>
 
 ### Super Imposition AR ✋
@@ -178,7 +213,19 @@ Superimposition-based augmented reality uses object recognition. **The augmented
 AR breaks the barriers to 3D: A **CAD** engineer can use AR **to superimpose a model** on thenphysical world as a hologram. This creates new and more efficient ways to evaluate and improve designs
 
  <br>
- 
-[<img src="img/super-impose-ar.gif"/>](https://www.ptc.com/en/blogs/cad/3-ways-ar-is-already-reshaping-product-design)
 
-> **Read More:** [Three ways AR is already Reshaping Product Design](https://www.ptc.com/en/blogs/cad/3-ways-ar-is-already-reshaping-product-design)
+- click on the img to see the video:
+
+[<img src="img/super-impose-ar.gif"/>](https://www.youtube.com/watch?v=wwmmgAw8ZAE&feature=emb_title)
+
+> ✋ **Read More:** [Three ways AR is already Reshaping Product Design](https://www.ptc.com/en/blogs/cad/3-ways-ar-is-already-reshaping-product-design)
+
+<br>
+
+---
+
+<br>
+<br>
+
+<br>
+<br>
