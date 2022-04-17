@@ -76,4 +76,10 @@
 > CRedits images above and below: [Krit Salah-ddine](https://www.researchgate.net/figure/example-of-marker-based-AR_fig1_332543647) > <br> [AUGMENTED REALITY TYPES AND POPULAR USE CASES](https://www.researchgate.net/publication/332543647_AUGMENTED_REALITY_TYPES_AND_POPULAR_USE_CASES)
 
 <br>
+
+#### As you can see, the 3d object stays in the place where the marker is.
+
+[<img src="img/image-tracking.gif"/>]()
+
+<br>
 <br>
