@@ -5,15 +5,19 @@
 <br>
 <br>
 
----
-
 <br>
 
 # 🍨
 
-## Let's get started !!!
+### Let's get started !!!
 
-### Introduction to <u>Extended Reality</u>
+<br>
+
+---
+
+<br>
+
+#### Introduction to <u>Extended Reality</u>
 
 > Extended Reality contains 3 subdomains(children):
 
@@ -24,8 +28,42 @@
 - Mixed Reality
 
 <br>
-<br>
-
-#### Augmented Reality 🦖
+ 
+## Augmented Reality 🦖
 
 > Augmented reality is an interactive experience of a real world environment where the objects that reside in the real world are enhanced by computer generated perceptual information, sometimes across multiple sensory modalities, including: **visual, auditory, haptic, somatosensory and olfactory.**
+
+- Examples: Pokemon GO, ARLoopa, Ikea Place.
+
+<br>
+
+<br>
+
+### Types of Augmented Reality
+
+<br>
+
+##### Marker-Based Augmented Reality
+
+##### Marker-Less Augmented Reality
+
+- Super Imposition AR
+
+- Location Based AR
+
+- Projection Based AR
+
+- Outlining AR
+
+<br>
+<br>
+
+### Marker-Based AR✋
+
+> This type of AR works on the concept of tracking and recognition. In this type of AR you need to have a marker through which you could perform the augmentation.
+
+In general this augments Digital Objects upon a marker. (the marger is the img icon on the center of the leaf, it can also be a QR code )
+
+<br>
+
+[<img src="img/example-of-marker-based-AR.png"/>]()
