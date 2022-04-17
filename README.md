@@ -115,3 +115,50 @@
 <br>
 
 **Markerless AR systems that use RGB-D SLAM and sensor fusion approaches** are on the opposite end of the spectrum. <br><br> **Microsoft HoloLens** is the most notable example. These systems integrate information from standard, red, green, and blue (RGB) cameras with state-of-the-art infrared time-of-flight cameras to construct a 3D map of the user’s surroundings while they use the application. This feature is a critical component of the SLAM tracking paradigm, as it enables apps running on these devices to place virtual content within the space concretely.
+
+<br>
+
+#### Advantages of Markerless AR 🍨
+
+> Markerless AR eliminates the need for capturing physical markers to trigger virtual interaction has the following advantages:
+
+- You significantly increase the average range of motion while experiencing AR.
+
+- You can initialize the application anywhere with a handheld device or a see-through headset like glasses or goggles.
+
+- You can share the experience with others.
+
+- You experience a wider field of view for AR content.
+
+<br>
+
+#### Disadvantages of Markerless AR
+
+Despite the benefits of markerless AR technology over earlier systems, challenges remain. The technology is mostly dependent on flat, textured surfaces to successfully render virtual images. Also, apps running on mobile devices use a lot of power.
+
+**Adoption is slow due to the lack of acceptance for AR wearables (glasses or headsets) and commercial investments.** 🔴 Still, AR headsets continue to grow as a segment of the gaming industry, with smaller markets developing in healthcare, academics, and industrial applications.
+
+**Pros and Cons of Markerless AR**
+
+Benefits & Challenges
+
+- Increase range of motion with AR
+- Depends of flat, textured surfaces
+
+<br>
+
+- Use a headset to initialize an AR app
+- Apps running mobile consume a lot of power
+
+<br>
+
+- Share the experience
+- Slow adoption
+
+**source:** [The Ultimate Guide to Markerless Augmented Reality](https://www.marxentlabs.com/what-is-markerless-augmented-reality-dead-reckoning/)
+
+<br>
+
+---
+
+<br>
