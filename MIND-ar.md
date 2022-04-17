@@ -2,6 +2,8 @@
 
 #### With this you can create face "filters" and other coll stuff , so click on the image to watch the video tutorial:
 
+###### [Crea experiencias WebAR con Image Tracking fácilmente - Mind AR Open Source](https://youtu.be/Vdg3tZB53hw)
+
 <br>
 
 [<img src="img/MIND-ar.gif"/>](https://youtu.be/sRfZ0NWFOD8)
