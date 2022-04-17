@@ -58,12 +58,22 @@
 <br>
 <br>
 
-### Marker-Based AR✋
+### Marker-Based AR ✋
 
-> This type of AR works on the concept of tracking and recognition. In this type of AR you need to have a marker through which you could perform the augmentation.
+[Augmented Reality for Everyone - Full Course
+](https://youtu.be/WzfDo2Wpxks?t=572)
 
-In general this augments Digital Objects upon a marker. (the marger is the img icon on the center of the leaf, it can also be a QR code )
+<br>
+
+> **This type of AR** works on the concept of tracking and recognition. In this type of AR you need to have a marker through which you could perform the augmentation.
+
+**In general this augments Digital Objects upon a marker.** (the marger is the img icon on the center of the leaf, it can also be a QR code )
 
 <br>
 
 [<img src="img/example-of-marker-based-AR.png"/>]()
+
+> CRedits images above and below: [Krit Salah-ddine](https://www.researchgate.net/figure/example-of-marker-based-AR_fig1_332543647) > <br> [AUGMENTED REALITY TYPES AND POPULAR USE CASES](https://www.researchgate.net/publication/332543647_AUGMENTED_REALITY_TYPES_AND_POPULAR_USE_CASES)
+
+<br>
+<br>
