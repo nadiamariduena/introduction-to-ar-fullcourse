@@ -17,6 +17,10 @@
 
 <br>
 
+## Extended Reality
+
+<br>
+
 #### Introduction to <u>Extended Reality</u>
 
 > Extended Reality contains 3 subdomains(children):
@@ -86,7 +90,7 @@
 
 [<img src="img/example-of-marker-based-AR.png"/>]()
 
-> CRedits images above and below: [Krit Salah-ddine](https://www.researchgate.net/figure/example-of-marker-based-AR_fig1_332543647) > <br> [AUGMENTED REALITY TYPES AND POPULAR USE CASES](https://www.researchgate.net/publication/332543647_AUGMENTED_REALITY_TYPES_AND_POPULAR_USE_CASES)
+> Credits images above and below: [Krit Salah-ddine](https://www.researchgate.net/figure/example-of-marker-based-AR_fig1_332543647) > <br> [AUGMENTED REALITY TYPES AND POPULAR USE CASES](https://www.researchgate.net/publication/332543647_AUGMENTED_REALITY_TYPES_AND_POPULAR_USE_CASES)
 
 <br>
 
@@ -162,3 +166,19 @@ Benefits & Challenges
 ---
 
 <br>
+
+### Super Imposition AR ✋
+
+<br>
+
+Superimposition-based augmented reality uses object recognition. **The augmented image replaces the original image either partially or fully**. This type of AR is commonly used in the medical field to superimpose an X-ray onto a patient's body. It can also be used to enhance a historical tour.
+
+<br>
+
+AR breaks the barriers to 3D: A **CAD** engineer can use AR **to superimpose a model** on thenphysical world as a hologram. This creates new and more efficient ways to evaluate and improve designs
+
+ <br>
+ 
+[<img src="img/super-impose-ar.gif"/>](https://www.ptc.com/en/blogs/cad/3-ways-ar-is-already-reshaping-product-design)
+
+> **Read More:** [Three ways AR is already Reshaping Product Design](https://www.ptc.com/en/blogs/cad/3-ways-ar-is-already-reshaping-product-design)
