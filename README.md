@@ -179,17 +179,17 @@ Benefits & Challenges
 <br>
 <br>
 
+#### More on markerless AR
+
 **[Houzz](https://www.houzz.com)** customers are able to place **"true-to-scale"** digital representations of furniture and other home décor products in their rooms. Users can place multiple objects at a time, and the wares are displayed with ambient lighting taken into account.
 
 <br>
 
 The app saves each previewed product to a shopping list for later purchase within the app, which supports Apple Pay. For those who are not ready to throw their money at Houzz just yet, the app also doubles as a Pinterest-like idea board, allowing users to capture their prospective designs for later reference.
 
-[<img src="img/markerless-ar-furniture.gif"/>](https://mobile-ar.reality.news/news/apple-ar-houzz-arkit-app-beats-ikea-app-store-0180132/)
-
-##### a magazine about Augmented reality
-
 > ✋ **Read More:** [Houzz ARKit App Beats IKEA to the App Store](https://mobile-ar.reality.news/news/apple-ar-houzz-arkit-app-beats-ikea-app-store-0180132/)
+
+[<img src="img/markerless-ar-furniture.gif"/>](https://mobile-ar.reality.news/news/apple-ar-houzz-arkit-app-beats-ikea-app-store-0180132/)
 
 <br>
 <br>
